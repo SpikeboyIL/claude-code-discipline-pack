@@ -26,7 +26,7 @@ Skills live in a `.claude/skills/` folder. Drop these in either location:
 
 **Global (all projects):**
 ```bash
-git clone https://github.com/<your-username>/claude-code-discipline-pack.git
+git clone https://github.com/SpikeboyIL/claude-code-discipline-pack.git
 cp -R claude-code-discipline-pack/skills/* ~/.claude/skills/
 ```
 
