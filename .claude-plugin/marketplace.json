@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "Practical Claude Code skill packs, battle-tested building real production apps.",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "plugins": [
     {
       "name": "discipline-pack",
       "source": ".",
       "description": "Three tiny skills that stop Claude Code from confidently shipping broken changes: grep before guessing, check the live source before editing, and prove the change before saying done.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "Erez Haim",
         "url": "https://promly.ai"
