@@ -22,6 +22,17 @@ Battle-tested driving an AI-built production app day after day — these are the
 
 ## Install
 
+### Option A — as a plugin (recommended)
+
+In Claude Code, run:
+```
+/plugin marketplace add SpikeboyIL/claude-code-discipline-pack
+/plugin install discipline-pack@spikeboy-skills
+```
+Version-tracked, one-command updates (`/plugin marketplace update`), and it shows up in your installed plugins list.
+
+### Option B — copy the skill files
+
 Skills live in a `.claude/skills/` folder. Drop these in either location:
 
 **Global (all projects):**
@@ -35,7 +46,7 @@ cp -R claude-code-discipline-pack/skills/* ~/.claude/skills/
 cp -R claude-code-discipline-pack/skills/* /path/to/project/.claude/skills/
 ```
 
-That's it. Claude Code reads each skill's `description` and triggers it automatically when the situation matches — no config, no slash command required. You can also invoke one explicitly (e.g. `/verification-before-completion`).
+Either way, Claude Code reads each skill's `description` and triggers it automatically when the situation matches — no config, no slash command required. You can also invoke one explicitly (e.g. `/verification-before-completion`).
 
 ## Why these three
 

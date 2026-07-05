@@ -1,0 +1,23 @@
+{
+  "name": "discipline-pack",
+  "version": "1.0.0",
+  "description": "Three tiny skills that stop Claude Code from confidently shipping broken changes: grep before guessing (doubt-driven), check the live source before editing (source-driven), and prove the change before saying done (verification-before-completion).",
+  "author": {
+    "name": "Erez Haim",
+    "url": "https://promly.ai"
+  },
+  "homepage": "https://github.com/SpikeboyIL/claude-code-discipline-pack",
+  "repository": "https://github.com/SpikeboyIL/claude-code-discipline-pack",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-code-plugin",
+    "agent-skills",
+    "skills",
+    "code-quality",
+    "verification",
+    "debugging",
+    "discipline",
+    "reliability"
+  ]
+}

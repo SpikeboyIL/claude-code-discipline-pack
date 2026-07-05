@@ -1,0 +1,30 @@
+{
+  "name": "spikeboy-skills",
+  "owner": {
+    "name": "Erez Haim",
+    "url": "https://promly.ai"
+  },
+  "metadata": {
+    "description": "Practical Claude Code skill packs, battle-tested building real production apps.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "discipline-pack",
+      "source": ".",
+      "description": "Three tiny skills that stop Claude Code from confidently shipping broken changes: grep before guessing, check the live source before editing, and prove the change before saying done.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Erez Haim",
+        "url": "https://promly.ai"
+      },
+      "keywords": [
+        "claude-code",
+        "agent-skills",
+        "code-quality",
+        "verification",
+        "discipline"
+      ]
+    }
+  ]
+}
