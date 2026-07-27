@@ -62,7 +62,7 @@ MIT — use them, fork them, ship them. See [LICENSE](LICENSE).
 
 These skills came out of actually **building and shipping real projects with Claude Code** — not toy demos. If that's what you're after, two practical guides:
 
-- **[Build & Launch With Claude Code — Ship a Real Website, From Blank Folder to Live](https://spikeboy3.gumroad.com/l/cprhfg?utm_source=github&utm_medium=readme&utm_campaign=discipline-pack)**
-- **[Learn + Build with Claude — Master Claude, Then Ship a Real Website (2-book bundle)](https://spikeboy3.gumroad.com/l/szxbmy?utm_source=github&utm_medium=readme&utm_campaign=discipline-pack)**
+- **[Build & Launch With Claude Code — Ship a Real Website, From Blank Folder to Live](https://www.amazon.com/dp/B0H6KXPWJM)**
+- **[Claude for Beginners — The Practical Handbook](https://www.amazon.com/dp/B0H6KWBJQT)**
 
 Built by the team behind [promly.ai](https://promly.ai?utm_source=github&utm_medium=readme&utm_campaign=discipline-pack).
